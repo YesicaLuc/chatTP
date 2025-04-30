@@ -5,15 +5,19 @@ Este proyecto implementa un chat básico cliente-servidor usando sockets en Pyth
 📁 Estructura de carpetas
 
 chat_basic/
+
 ├── README.md
+
 ├── server/
+
 │   ├── server.py
+
 │   └── db_utils.py
+
 └── client/
+
     └── client.py
 
-Dónde ubicar este archivo:
-Coloca README.md en la raíz del proyecto chat_basic/, junto a las carpetas server/ y client/.
 
 🚀 Prerrequisitos
 
